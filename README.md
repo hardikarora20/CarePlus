@@ -1,6 +1,6 @@
 <h1 align="center"> CarePlus 🏥 - Hospital Management App </h1> <br>
 <p align="center">
-  <img src="screenshots/login.png" width="800" height="475"><br><br>
+  <img src="screenshots/login.png"><br><br>
   <img alt="CarePlus Logo" title="CarePlus" src="screenshots/logo.png" width="200"><br>
   Hospital Management Made Easy.
 </p>
