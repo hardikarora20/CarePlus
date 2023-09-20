@@ -1,9 +1,7 @@
 <h1 align="center"> CarePlus 🏥 - Hospital Management App </h1> <br>
 <p align="center">
-  <img alt="CarePlus Logo" title="CarePlus" src="image.png" width="450">
-</p>
-
-<p align="center">
+  <img src="screenshots/login.png" width="800" height="475"><br><br>
+  <img alt="CarePlus Logo" title="CarePlus" src="screenshots/logo.png" width="200"><br>
   Hospital Management Made Easy.
 </p>
 
@@ -23,10 +21,13 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 
+<a href="#introduction"></a>
 ## Introduction 🚀
 
 Welcome to CarePlus, an innovative hospital management application designed to revolutionize healthcare facility operations. CarePlus leverages cutting-edge technology to simplify administrative tasks, enhance patient care, and optimize overall efficiency within hospitals, clinics, and medical institutions.
 
+
+<a href="#technologies-used"></a>
 ## Technologies Used 💻
 
 CarePlus relies on the following technologies:
@@ -37,6 +38,7 @@ CarePlus relies on the following technologies:
 - **Security Measures:** Encryption, secure authentication mechanisms, and access controls ensure data security.
 - **Integration with External Systems:** For OTP sending, the 2factor API is used, and for SMS sending, the bulksms API is employed.
 
+<a href="#database-structure"></a>
 ## Database Structure 📊
 
 CarePlus uses the following database tables for data storage:
@@ -48,14 +50,17 @@ CarePlus uses the following database tables for data storage:
 5. **Users Table:** Stores user login information, including login ID, user name, password, and user type.
 6. **Appointments Table:** Contains data related to patient appointments, including patient ID, patient name, status, OPD, date and time, doctor name, and mobile number.
 
+<a href="#password-encryption"></a>
 ## Password Encryption 🔒
 
 In CarePlus, password encryption is implemented using the Base64 algorithm. The encrypted password is securely stored in the database, ensuring protection against unauthorized access.
 
+<a href="#splash-screen"></a>
 ## Splash Screen 🌊
 
 The splash screen provides visual feedback to users during the app's initialization. It is implemented using multithreading in Java to create a smooth user experience.
 
+<a href="#login-module"></a>
 ## Login Module 🔑
 
 CarePlus offers three login options: Admin, Doctor, and Receptionist. Users are authenticated based on their credentials and directed to their respective modules.
@@ -64,18 +69,31 @@ CarePlus offers three login options: Admin, Doctor, and Receptionist. Users are 
 
 In the Admin Panel, administrators can perform various tasks, including managing employees, doctors, receptionists, and viewing patient details.
 
+<a href="#receptionist-panel"></a>
 ## Receptionist Panel 📋
 
 In the Receptionist Panel, receptionists have functionalities for managing patients, including adding, updating, discharging, and viewing patient details.
 
+<a href="#doctor-panel"></a>
 ## Doctor Panel 🩺
 
 In the Doctor Panel, doctors can manage patient appointments, including viewing appointment requests and confirming appointments.
 
+<a href="#screenshots"></a>
 ## Screenshots 📸
 
-Include screenshots of your application here to give users a visual preview of the app's interface.
+<div align="center">
+  <img src="screenshots/receptionist.png" width="500" height="300">
+  <img src="screenshots/doctor.png" width="500" height="300">
+</div>
 
+<div align="center">
+  <img src="screenshots/admin.png" width="333" height="200">
+  <img src="screenshots/addpatient.png" width="333" height="200">
+  <img src="screenshots/adddoctor.png" width="333" height="200">
+</div>
+
+<a href="#installation"></a>
 ## Installation 🛠️
 
 To get started with CarePlus, follow these simple steps:
@@ -96,6 +114,7 @@ To get started with CarePlus, follow these simple steps:
 
 That's it! You've successfully installed and set up CarePlus for your healthcare facility. Enjoy streamlining your hospital management operations.
 
+<a href="#usage"></a>
 ## Usage 📖
 
 To start using the CarePlus application, follow these steps:
@@ -118,6 +137,7 @@ To start using the CarePlus application, follow these steps:
 
 By following these steps, you'll be ready to utilize CarePlus for efficient hospital management.
 
+<a href="#contributing"></a>
 ## Contributing 🤝
 
 We welcome contributions to improve and expand CarePlus. Whether you're a developer, designer, tester, or just an enthusiastic user, there are several ways you can contribute to the project:
