@@ -7,19 +7,19 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Database Structure](#database-structure)
-- [Password Encryption](#password-encryption)
-- [Splash Screen](#splash-screen)
-- [Login Module](#login-module)
-- [Admin Panel](#admin-panel)
-- [Receptionist Panel](#receptionist-panel)
-- [Doctor Panel](#doctor-panel)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Introduction](#introduction-)
+- [Technologies Used](#technologies-used-)
+- [Database Structure](#database-structure-)
+- [Password Encryption](#password-encryption-)
+- [Splash Screen](#splash-screen-)
+- [Login Module](#login-module-)
+- [Admin Panel](#admin-panel-)
+- [Receptionist Panel](#receptionist-panel-)
+- [Doctor Panel](#doctor-panel-)
+- [Screenshots](#screenshots-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
 
 <a href="#introduction"></a>
 ## Introduction 🚀
@@ -83,14 +83,14 @@ In the Doctor Panel, doctors can manage patient appointments, including viewing 
 ## Screenshots 📸
 
 <div align="center">
-  <img src="screenshots/receptionist.png" width="500" height="300">
-  <img src="screenshots/doctor.png" width="500" height="300">
+  <img src="screenshots/receptionist.png" width="400" height="250">
+  <img src="screenshots/doctor.png" width="400" height="250">
 </div>
 
 <div align="center">
-  <img src="screenshots/admin.png" width="333" height="200">
-  <img src="screenshots/addpatient.png" width="333" height="200">
-  <img src="screenshots/adddoctor.png" width="333" height="200">
+  <img src="screenshots/admin.png" width="265" height="160">
+  <img src="screenshots/addpatient.png" width="265" height="160">
+  <img src="screenshots/adddoctor.png" width="265" height="160">
 </div>
 
 <a href="#installation"></a>
