@@ -66,8 +66,8 @@ In the Receptionist Panel, receptionists have functionalities for managing patie
 In the Doctor Panel, doctors can manage patient appointments, including viewing appointment requests and confirming appointments.<br><br>
 <img src="screenshots/doctor.png">
 
-<a href="#other-screenshots"></a>
-## Other Screenshots 📸
+<a href="#additional-screenshots"></a>
+## Additional Screenshots 📸
 
 <div align="center">
   <img src="screenshots/addpatient.png">
