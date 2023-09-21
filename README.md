@@ -1,8 +1,6 @@
 <h1 align="center"> CarePlus 🏥 - Hospital Management App </h1> <br>
 <p align="center">
-  <img src="screenshots/login.png"><br><br>
-  <img alt="CarePlus Logo" title="CarePlus" src="screenshots/logo.png" width="200"><br>
-  Hospital Management Made Easy.
+  <img src="screenshots/login.png">
 </p>
 
 <a href="#introduction"></a>
@@ -137,4 +135,11 @@ We encourage open and constructive collaboration to make CarePlus even better.
 
 Thank you for considering contributing to CarePlus!
 
+<p align="center">
+  <br>
+  <img alt="CarePlus Logo" title="CarePlus" src="screenshots/logo.png" width="200"><br>
+  Hospital Management Made Easy.
+  <br><br>
+</p>
+  
 ---
