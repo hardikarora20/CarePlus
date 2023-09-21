@@ -16,7 +16,7 @@
 - [Admin Panel](#admin-panel-)
 - [Receptionist Panel](#receptionist-panel-)
 - [Doctor Panel](#doctor-panel-)
-- [Screenshots](#screenshots-)
+- [Screenshots](#other-screenshots-)
 - [Installation](#installation-)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
@@ -58,39 +58,38 @@ In CarePlus, password encryption is implemented using the Base64 algorithm. The 
 <a href="#splash-screen"></a>
 ## Splash Screen 🌊
 
-The splash screen provides visual feedback to users during the app's initialization. It is implemented using multithreading in Java to create a smooth user experience.
+The splash screen provides visual feedback to users during the app's initialization. It is implemented using multithreading in Java to create a smooth user experience.<br><br>
+<img src="screenshots/splashscreen.png">
 
 <a href="#login-module"></a>
 ## Login Module 🔑
 
-CarePlus offers three login options: Admin, Doctor, and Receptionist. Users are authenticated based on their credentials and directed to their respective modules.
+CarePlus offers three login options: Admin, Doctor, and Receptionist. Users are authenticated based on their credentials and directed to their respective modules.<br><br>
+<img src="screenshots/login.png">
 
 ## Admin Panel 👩‍💼👨‍💼
 
-In the Admin Panel, administrators can perform various tasks, including managing employees, doctors, receptionists, and viewing patient details.
+In the Admin Panel, administrators can perform various tasks, including managing employees, doctors, receptionists, and viewing patient details.<br><br>
+<img src="screenshots/admin.png">
 
 <a href="#receptionist-panel"></a>
 ## Receptionist Panel 📋
 
-In the Receptionist Panel, receptionists have functionalities for managing patients, including adding, updating, discharging, and viewing patient details.
+In the Receptionist Panel, receptionists have functionalities for managing patients, including adding, updating, discharging, and viewing patient details.<br><br>
+<img src="screenshots/receptionist.png">
 
 <a href="#doctor-panel"></a>
 ## Doctor Panel 🩺
 
-In the Doctor Panel, doctors can manage patient appointments, including viewing appointment requests and confirming appointments.
+In the Doctor Panel, doctors can manage patient appointments, including viewing appointment requests and confirming appointments.<br><br>
+<img src="screenshots/doctor.png">
 
-<a href="#screenshots"></a>
-## Screenshots 📸
-
-<div align="center">
-  <img src="screenshots/receptionist.png" width="400" height="250">
-  <img src="screenshots/doctor.png" width="400" height="250">
-</div>
+<a href="#other-screenshots"></a>
+## Other Screenshots 📸
 
 <div align="center">
-  <img src="screenshots/admin.png" width="265" height="160">
-  <img src="screenshots/addpatient.png" width="265" height="160">
-  <img src="screenshots/adddoctor.png" width="265" height="160">
+  <img src="screenshots/addpatient.png">
+  <img src="screenshots/adddoctor.png">
 </div>
 
 <a href="#installation"></a>
