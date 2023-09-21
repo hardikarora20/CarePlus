@@ -5,22 +5,6 @@
   Hospital Management Made Easy.
 </p>
 
-## Table of Contents
-
-- [Introduction](#introduction-)
-- [Technologies Used](#technologies-used-)
-- [Database Structure](#database-structure-)
-- [Password Encryption](#password-encryption-)
-- [Splash Screen](#splash-screen-)
-- [Login Module](#login-module-)
-- [Admin Panel](#admin-panel-)
-- [Receptionist Panel](#receptionist-panel-)
-- [Doctor Panel](#doctor-panel-)
-- [Screenshots](#other-screenshots-)
-- [Installation](#installation-)
-- [Usage](#usage-)
-- [Contributing](#contributing-)
-
 <a href="#introduction"></a>
 ## Introduction 🚀
 
